@@ -1,7 +1,7 @@
 -  👋  Hi, I’m @SirHarveyBix  😏
--  here, in Repos, you'll find moslty learning projects, and some team collaborating ones, feel free to check, review, comment, and contact me !
-- 🌱 I’m currently learning / working with Node.js : React, Express 💖, & SQL
-- 💞️ I’m looking forward an internship, in the Beloved city of Nantes  🏠 !
+-  In Repos, you'll find moslty learning projects, and some team collaborating ones, feel free to check, review, comment, and contact me !
+- 🌱 I’m junior and might be soon employed,
+- 🚀 everything's on React, and learning, GraphQL, Prisma, Next.js, TypeScript, ElasticSearch .. Back Side.
 - 📫 You may find me on  https://www.linkedin.com/in/lefort-guillaume/, 
   if you are into pics, let's meet : https://www.instagram.com/sir.harvey/ .
 
