@@ -1,5 +1,5 @@
 -  👋  Hi, I’m @SirHarveyBix  😏
--  In Repos, you'll find moslty learning projects, and some team collaborating ones, feel free to check, review, comment, and contact me !
+-  In Repos, you'll moslty find learning projects, and some team collaborating ones, feel free to check, review, comment, and contact me !
 - 🌱 I’m junior and might be soon employed,
 - 🚀 everything's on React, and learning, GraphQL, Prisma, Next.js, TypeScript, ElasticSearch .. Back Side.
 - 📫 You may find me on  https://www.linkedin.com/in/lefort-guillaume/, 
