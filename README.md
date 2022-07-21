@@ -15,6 +15,6 @@ https://github.com/anuraghazra/github-readme-stats
   
 ![stats](https://github-readme-stats.vercel.app/api?username=SirHarveyBix&theme=cobalt&show_icons=true)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirHarveyBix&theme=cobalt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirHarveyBix&theme=cobalt&layout=compact&langs_count=6&hide=html)
   
 </div>
