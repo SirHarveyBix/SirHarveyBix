@@ -37,13 +37,12 @@
 
 <div>
   
-<!-- ![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/github-metrics.svg)
 ![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/achievements.svg)
-https://github.com/omBratteng/omBratteng
-https://github.com/marketplace/actions/metrics-embed
--->
+
+<!-- https://github.com/omBratteng/omBratteng
+https://github.com/marketplace/actions/metrics-embed -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirHarveyBix&theme=cobalt&layout=compact&langs_count=6&hide=html)
   
