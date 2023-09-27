@@ -35,8 +35,7 @@
 - :memo: React, GraphQL, Next.js, TypeScript, docker (and some small projects).. Back Side.
 
 <div>
-  
-![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/metrics/github-metrics.svg)
+
 ![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/metrics/metrics.plugin.languages.details.svg)
 
 <!--
