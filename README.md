@@ -40,9 +40,7 @@
 <!-- ![Notable contributions](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/achievements.svg)
 
-https://github.com/omBratteng/omBratteng
-https://github.com/marketplace/actions/metrics-embed -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirHarveyBix&theme=cobalt&layout=compact&langs_count=6&hide=html)
+secret setup => https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
+metrics plugins => https://github.com/marketplace/actions/metrics-embed -->
 
 </div>

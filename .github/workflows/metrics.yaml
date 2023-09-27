@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule: [{ cron: "* * * * *" }]
   # (optional) Run workflow manually
   workflow_dispatch:
   push: { branches: ["main", "master"] }
@@ -22,4 +22,5 @@ jobs:
           plugin_languages_skipped: lowlighter/metrics
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_limit: 10
+          plugin_languages_aliases: tsx:typescript jsx:javascript
           commits_authoring: firstname lastname, username, SirHarveyBix@users.noreply.github.com
