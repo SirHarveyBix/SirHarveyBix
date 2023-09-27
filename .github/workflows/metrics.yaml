@@ -1,20 +1,28 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{ cron: "* * * * *" }]
   # (optional) Run workflow manually
   workflow_dispatch:
+  # Schedule daily updates: 0 0 * * *
+  schedule:
+    - cron: "* * * * *"
   push: { branches: ["main", "master"] }
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    # permissions:
+    #   contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.details.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          # filename: metrics.plugin.languages.details.svg
+          token:
+            ${{ secrets.METRICS_TOKEN }}
+            # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          committer_message: "update `${filename}`"
+
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
