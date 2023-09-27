@@ -10,12 +10,12 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    # permissions:
-    #   contents: write
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # filename: metrics.plugin.languages.details.svg
+          filename: metrics.plugin.languages.details.svg
           token:
             ${{ secrets.METRICS_TOKEN }}
             # GITHUB_TOKEN is a special auto-generated token used for commits

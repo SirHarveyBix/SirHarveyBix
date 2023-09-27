@@ -38,8 +38,6 @@
   
 ![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/metrics/github-metrics.svg)
 ![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/metrics/metrics.plugin.languages.details.svg)
-<!-- ![Notable contributions](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/achievements.svg)
 
 secret setup => https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
 metrics plugins => https://github.com/marketplace/actions/metrics-embed -->
