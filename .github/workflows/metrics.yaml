@@ -1,10 +1,10 @@
-name: Most used (with details)
+name: Metrics
 on:
   # Schedule daily updates
   schedule: [{ cron: "0 0 * * *" }]
   # (optional) Run workflow manually
   workflow_dispatch:
-  push: { branches: ["main"] }
+  push: { branches: ["main", "master"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -20,6 +20,6 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_ignored: html, css, Procfile
           plugin_languages_skipped: lowlighter/metrics
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_limit: 10
           commits_authoring: firstname lastname, username, SirHarveyBix@users.noreply.github.com
