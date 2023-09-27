@@ -2,9 +2,9 @@ name: Metrics
 on:
   # (optional) Run workflow manually
   workflow_dispatch:
-  # Schedule daily updates: 0 0 * * * > 24h . 0 0 * * *  1min
+  # Schedule daily updates: 0 0 * * * > 24h . 0 0 * * * > 1min
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "* * * * *"
   push: { branches: ["main", "master"] }
 
 jobs:
