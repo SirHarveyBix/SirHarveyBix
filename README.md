@@ -36,7 +36,8 @@
 
 <div>
   
-![Metrics](/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/metrics/metrics.plugin.languages.details.svg)
 <!-- ![Notable contributions](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/achievements.svg)
 
