@@ -26,24 +26,23 @@
       align="right"
       />
   </a>
-
  </div>
- 
+
 ## Guillaume Lefort
-     
--  You'll moslty find learning projects, and some team collaborating ones, feel free to check, review, comment, and contact !
+
+- You'll moslty find learning projects, and some team collaborating ones, feel free to check, review, comment, and contact !
 
 - :memo: React, GraphQL, Next.js, TypeScript, docker (and some small projects).. Back Side.
 
 <div>
   
-![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/notable.svg)
+![Metrics](/github-metrics.svg)
+<!-- ![Notable contributions](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/github-metrics/achievements.svg)
 
-<!-- https://github.com/omBratteng/omBratteng
+https://github.com/omBratteng/omBratteng
 https://github.com/marketplace/actions/metrics-embed -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirHarveyBix&theme=cobalt&layout=compact&langs_count=6&hide=html)
-  
+
 </div>
