@@ -26,6 +26,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_languages: yes
           plugin_languages_indepth: yes
+          plugin_languages_aliases: TSX:TypeScript
           # plugin_languages_ignored: html, css, Procfile
           plugin_languages_skipped: lowlighter/metrics
           plugin_languages_details: lines, bytes-size, percentage
