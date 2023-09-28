@@ -36,6 +36,7 @@
 
 <div>
 
+![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/metrics/metrics.plugin.topics.icons.svg)
 ![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/metrics/metrics.plugin.languages.details.svg)
 
 <!--
