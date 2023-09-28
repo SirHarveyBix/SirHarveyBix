@@ -50,4 +50,9 @@ jobs:
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 25
+          plugin_topics_sort: activity
+                            # stars: sort by most stars
+                            # activity: sort by recent activity
+                            # starred: sort by starred date
+                            # random: sort randomly
           plugin_topics_mode: icons
