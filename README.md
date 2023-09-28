@@ -22,7 +22,7 @@
   <a href="https://app.daily.dev/harveyBix" target="_blank">
     <img
       src="https://api.daily.dev/devcards/793157ef86e24324a9ef3afae6975b39.png?r=1jm"
-      width="256"
+      width="320"
       align="right"
       />
   </a>
