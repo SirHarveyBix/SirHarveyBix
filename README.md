@@ -32,8 +32,6 @@
 
 - You'll moslty find learning projects, and some team collaborating ones, feel free to check, review, comment, and contact !
 
-- :memo: React, GraphQL, Next.js, TypeScript, docker (and some small projects).. Back Side.
-
 <div>
 
 ![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/metrics/metrics.plugin.topics.icons.svg)
