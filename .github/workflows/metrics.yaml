@@ -8,32 +8,28 @@ on:
   push: { branches: ["main", "master"] }
 
 jobs:
-  github-metrics:
+  base:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.details.svg
+          filename: metrics.base.svg
           token:
             ${{ secrets.METRICS_TOKEN }}
             # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
           committer_message: "update `${filename}`"
+          commits_authoring: Guillaume Lefort, SirHarveyBix, 79848679+SirHarveyBix@users.noreply.github.com, Guillaume, Gui.lefort.17@gmail.com, SirHarveyBix@users.noreply.github.com
 
+          base: header, activity, community, repositories, metadata
           repositories_forks: yes
           repositories_skipped: 5e-drs
-          base: ""
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_aliases: TSX:TypeScript
-          plugin_languages_ignored: Procfile
-          plugin_languages_skipped: lowlighter/metrics
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_limit: 10
-          commits_authoring: Guillaume Lefort, SirHarveyBix, SirHarveyBix@users.noreply.github.com
+          base_hireable: yes
+          base_indepth: yes
+
 
   starred-topics:
     runs-on: ubuntu-latest
@@ -49,6 +45,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
           committer_message: "update `${filename}`"
+
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 25
@@ -59,23 +56,29 @@ jobs:
                             # random: sort randomly
           plugin_topics_mode: icons
 
-  base:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.base.svg
+          filename: metrics.plugin.languages.details.svg
           token:
             ${{ secrets.METRICS_TOKEN }}
             # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
           committer_message: "update `${filename}`"
-          commits_authoring: Guillaume Lefort, SirHarveyBix, SirHarveyBix@users.noreply.github.com
+
+          base: ""
           repositories_forks: yes
           repositories_skipped: 5e-drs
-          base_hireable: yes
-          base_indepth: yes
-          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_aliases: TSX:TypeScript
+          plugin_languages_ignored: Procfile
+          plugin_languages_skipped: lowlighter/metrics
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_limit: 10
+          commits_authoring: Guillaume Lefort, SirHarveyBix, 79848679+SirHarveyBix@users.noreply.github.com, Guillaume, Gui.lefort.17@gmail.com, SirHarveyBix@users.noreply.github.com,
