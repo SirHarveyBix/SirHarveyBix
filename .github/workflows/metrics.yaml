@@ -23,6 +23,8 @@ jobs:
           committer_branch: metrics
           committer_message: "update `${filename}`"
 
+          repositories_forks: yes
+          repositories_skipped: 5e-drs
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
@@ -72,6 +74,8 @@ jobs:
           committer_branch: metrics
           committer_message: "update `${filename}`"
           commits_authoring: Guillaume Lefort, SirHarveyBix, SirHarveyBix@users.noreply.github.com
-          base_hireable: true
-          base_indepth: true
+          repositories_forks: yes
+          repositories_skipped: 5e-drs
+          base_hireable: yes
+          base_indepth: yes
           base: header, activity, community, repositories, metadata
