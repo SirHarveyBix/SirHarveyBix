@@ -29,7 +29,7 @@
  </div>
 
  <!-- [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/SirHarveyBix/Blog)  -->
-## [Guillaume Lefort](https://www.gui-dev.fr/) [<img height="25" src="https://unpkg.com/simple-icons@v9/icons/github.svg" />](https://github.com/SirHarveyBix/Blog)
+## <a href="https://www.gui-dev.fr/" target="_blank">Guillaume Lefort</a> <a href="https://github.com/SirHarveyBix/Blog" target="_blank"><img height="25" src="https://unpkg.com/simple-icons@v9/icons/github.svg" /></a>
 
 
 - You'll moslty find learning projects, and some team collaborating ones, feel free to check, review, comment, and contact !
