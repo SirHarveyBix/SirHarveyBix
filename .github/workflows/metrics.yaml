@@ -16,8 +16,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.base.svg
-          token:
-            ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
             # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
@@ -39,9 +38,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.icons.svg
-          token:
-            ${{ secrets.METRICS_TOKEN }}
-            # GITHUB_TOKEN is a special auto-generated token used for commits
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
           committer_message: "update `${filename}`"
@@ -50,10 +47,6 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 25
           plugin_topics_sort: activity
-                            # stars: sort by most stars
-                            # activity: sort by recent activity
-                            # starred: sort by starred date
-                            # random: sort randomly
           plugin_topics_mode: icons
 
   github-metrics:
@@ -64,9 +57,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.details.svg
-          token:
-            ${{ secrets.METRICS_TOKEN }}
-            # GITHUB_TOKEN is a special auto-generated token used for commits
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
           committer_message: "update `${filename}`"

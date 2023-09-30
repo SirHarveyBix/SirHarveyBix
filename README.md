@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 
  <div align="left">
    <a href="https://www.linkedin.com/in/lefort-guillaume/">
@@ -28,7 +28,9 @@
   </a>
  </div>
 
-## Guillaume Lefort
+ <!-- [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/SirHarveyBix/Blog)  -->
+## [Guillaume Lefort](https://www.gui-dev.fr/) [<img height="25" src="https://unpkg.com/simple-icons@v9/icons/github.svg" />](https://github.com/SirHarveyBix/Blog)
+
 
 - You'll moslty find learning projects, and some team collaborating ones, feel free to check, review, comment, and contact !
 
@@ -41,6 +43,7 @@
 <!--
 secret setup => https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
 metrics plugins => https://github.com/marketplace/actions/metrics-embed
+devCard : https://github.com/dailydotdev/action-devcard
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirHarveyBix&theme=cobalt&layout=compact&langs_count=6&hide=html)
 -->
