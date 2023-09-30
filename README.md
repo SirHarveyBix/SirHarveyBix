@@ -21,7 +21,7 @@
   </a>
   <a href="https://app.daily.dev/harveyBix" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/devcard/devcard.png"
+      src="https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/devcard/devcard.svg"
       width="320"
       align="right"
       />
