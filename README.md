@@ -28,7 +28,8 @@
   </a>
  </div>
 
- <!-- [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/SirHarveyBix/Blog)  -->
+ <!-- [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/SirHarveyBix/Blog) -->
+
 ## <a href="https://www.gui-dev.fr/" target="_blank">Guillaume Lefort</a> <a href="https://github.com/SirHarveyBix/Blog" target="_blank"><img height="25" src="https://unpkg.com/simple-icons@v9/icons/github.svg" /></a>
 
 - You'll moslty find learning projects, and some team collaborating ones, feel free to check, review, comment, and contact !
@@ -38,6 +39,7 @@
 ![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/metrics/metrics.base.svg)
 ![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/metrics/metrics.plugin.topics.icons.svg)
 ![Metrics](https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/metrics/metrics.plugin.languages.details.svg)
+
 <!--
 secret setup => https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
 metrics plugins => https://github.com/marketplace/actions/metrics-embed

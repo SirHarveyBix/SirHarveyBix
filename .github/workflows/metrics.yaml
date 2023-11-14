@@ -29,7 +29,6 @@ jobs:
           base_hireable: yes
           base_indepth: yes
 
-
   starred-topics:
     runs-on: ubuntu-latest
     permissions:
