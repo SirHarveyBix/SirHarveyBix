@@ -19,7 +19,7 @@
       alt="udemy"
     />
   </a>
-  <a href="https://app.daily.dev/harveyBix" title="app.daily.dev" target="_blank">
+  <a href="https://app.daily.dev/harveybix" title="app.daily.dev" target="_blank">
     <img
       src="https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/devcard/devcard.svg"
       width="320"
