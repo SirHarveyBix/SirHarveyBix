@@ -1,25 +1,25 @@
 # Hello there 👋
 
  <div align="left">
-   <a href="https://www.linkedin.com/in/lefort-guillaume/">
+   <a href="https://www.linkedin.com/in/lefort-guillaume/" title="linkedin" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
-    <a href="https://www.instagram.com/sir.harvey">
+    <a href="https://www.instagram.com/sir.harvey" title="instagram" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=instagram&style=flat-square&color=0072b1&label=instagram&message=%E2%98%86"
       alt="instagram"
     />
   </a>
-       <a href="https://www.udemy.com/user/guillaume-633">
+       <a href="https://www.udemy.com/user/guillaume-633" title="udemy" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=udemy&style=flat-square&color=0072b1&label=udemy&message=%E2%98%86"
       alt="udemy"
     />
   </a>
-  <a href="https://app.daily.dev/harveyBix" target="_blank">
+  <a href="https://app.daily.dev/harveyBix" title="app.daily.dev" target="_blank">
     <img
       src="https://raw.githubusercontent.com/SirHarveyBix/SirHarveyBix/devcard/devcard.svg"
       width="320"
